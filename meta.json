@@ -44,5 +44,6 @@
             "title":"Record Year Low"
         }
     ],
-    "title": "wunderground-get_almanac_f" /* Required.A display name for the module */
+    "icon": "dex-wunderground",
+    "title": "Get Almanac ( F )" /* Required.A display name for the module */
 }
