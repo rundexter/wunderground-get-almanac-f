@@ -49,5 +49,5 @@
         }
     ],
     "icon": "dex-wunderground",
-    "title": "Get Almanac ( F )" /* Required.A display name for the module */
+    "title": "Weather Underground - Get Almanac ( F )" /* Required.A display name for the module */
 }
