@@ -4,23 +4,45 @@
 {
     //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "country",
+            "title":"Country"
+        },
+        {
+            "id": "city",
+            "title":"City"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
-      //e.g.
-      /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "almanac_airport_code",
+            "title":"Airport"
+        },
+        {
+            "id": "temp_high_normal",
+            "title":"High ( F )"
+        },
+        {
+            "id": "temp_high_record",
+            "title":"Record High ( F )"
+        },
+        {
+            "id": "temp_high_recordyear",
+            "title":"Record Year High"
+        },
+        {
+            "id": "temp_low_normal",
+            "title":"Low ( F )"
+        },
+        {
+            "id": "temp_low_record",
+            "title":"Record Low ( F )"
+        },
+        {
+            "id": "temp_low_recordyear",
+            "title":"Record Year Low"
         }
-      */
     ],
     "title": "wunderground-get_almanac_f" /* Required.A display name for the module */
 }
